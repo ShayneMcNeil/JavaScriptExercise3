@@ -3,7 +3,7 @@
     Assignment: Exercise 3 - Operators and User Interactions
     Student Name: Shayne McNeil
     Student ID: W0454809
-    Date: January 23, 2025
+    Date: January 31, 2025
 
 */
 
@@ -78,4 +78,4 @@ const userAge = prompt("Please enter your age: ");
 
 // Display values (not part of the requirements for this assignment)
 
-console.log(f`Hello ${userName}, it's nice to meet you! I see that you are ${userAge} years old. Welcome to the site.`);
+console.log(`Hello ${userName}, it's nice to meet you! I see that you are ${userAge} years old. Welcome to the site.`);
